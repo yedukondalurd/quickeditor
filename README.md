@@ -1,1 +1,1 @@
-# smeditor
+# quickeditor
